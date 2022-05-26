@@ -3,7 +3,7 @@
 
 
 ### 1 Scrabble
-Naprogramujte pomocníka pro počítání hodnoty slova hry Scrabble. Každé písmeno slova je ohodnoceno svou hodnotou.
+Naprogramujte pomocníka pro počítání hodnoty slova hry Scrabble. Každé písmeno slova je ohodnoceno svou hodnotou. Nezapomeňte ošetřit situace neplatných vstupů.
 
 ```
 Písmeno                           Hodnota
@@ -33,7 +33,7 @@ E 1
 ```
 
 ### 3
-Naprogramujte uživatelské prosředí, které bude na zadaný výraz počítat hodnotu. Výsledek zobrazte uživateli.
+Naprogramujte uživatelské prosředí, které bude na zadaný výraz počítat hodnotu. Výsledek zobrazte uživateli. 
 
 ### 4
 Program i test rozšiřte o podporu českých slov.
